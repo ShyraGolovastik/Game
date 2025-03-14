@@ -1,21 +1,21 @@
 {
-  "Score": 118.1253,
+  "Score": 947.3189,
   "PlayerHealth": 9.0,
   "IsPaused": false,
   "Player": {
     "Position": {
-      "x": 0.0195791312,
-      "y": 0.229984879,
-      "z": 0.0,
+      "x": -1.51792729,
+      "y": 0.183410019,
+      "z": -3.39921761,
       "normalized": {
-        "x": 0.08482543,
-        "y": 0.9963958,
-        "z": 0.0,
+        "x": -0.407250822,
+        "y": 0.04920781,
+        "z": -0.911989748,
         "magnitude": 1.0,
-        "sqrMagnitude": 1.0
+        "sqrMagnitude": 0.99999994
       },
-      "magnitude": 0.230816782,
-      "sqrMagnitude": 0.0532763861
+      "magnitude": 3.72725415,
+      "sqrMagnitude": 13.8924227
     },
     "Rotation": {
       "x": 0.0,
@@ -61,7 +61,7 @@
         "magnitude": 0.0,
         "sqrMagnitude": 0.0
       },
-      "IsKinematic": false
+      "IsKinematic": true
     },
     "IsActive": true
   },
@@ -102,18 +102,126 @@
     {
       "Item1": {
         "Position": {
-          "x": 1.12882662,
-          "y": 0.729476,
-          "z": 1.60905266,
+          "x": 3.634142,
+          "y": 0.8484249,
+          "z": 7.746004,
           "normalized": {
-            "x": 0.53842634,
-            "y": 0.3479446,
-            "z": 0.767484,
-            "magnitude": 1.0,
+            "x": 0.422667861,
+            "y": 0.09867582,
+            "z": 0.900896847,
+            "normalized": {
+              "x": 0.4226678,
+              "y": 0.0986758,
+              "z": 0.9008967,
+              "normalized": {
+                "x": 0.422667831,
+                "y": 0.09867581,
+                "z": 0.9008968,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.0
+              },
+              "magnitude": 0.99999994,
+              "sqrMagnitude": 0.9999999
+            },
+            "magnitude": 1.00000012,
             "sqrMagnitude": 1.00000012
           },
-          "magnitude": 2.09652925,
-          "sqrMagnitude": 4.39543533
+          "magnitude": 8.598104,
+          "sqrMagnitude": 73.92739
+        },
+        "Rotation": {
+          "x": 31.39826,
+          "y": 291.477722,
+          "z": 329.049,
+          "normalized": {
+            "x": 0.07124599,
+            "y": 0.66139394,
+            "z": 0.746647239,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 440.702118,
+          "sqrMagnitude": 194218.359
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "normalized": {
+            "x": 0.577350259,
+            "y": 0.577350259,
+            "z": 0.577350259,
+            "magnitude": 1.0,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 1.73205078,
+          "sqrMagnitude": 3.0
+        },
+        "PrefabName": "Box",
+        "RbData": {
+          "LineVelocity": {
+            "x": -1.245183,
+            "y": 0.695282459,
+            "z": -28.50972,
+            "normalized": {
+              "x": -0.0436211936,
+              "y": 0.0243571028,
+              "z": -0.998751163,
+              "magnitude": 1.0,
+              "sqrMagnitude": 0.99999994
+            },
+            "magnitude": 28.5453682,
+            "sqrMagnitude": 814.838
+          },
+          "AngularVelocity": {
+            "x": 3.2723074,
+            "y": -4.574925,
+            "z": -0.498373866,
+            "normalized": {
+              "x": 0.579498,
+              "y": -0.810180545,
+              "z": -0.0882578045,
+              "normalized": {
+                "x": 0.579498053,
+                "y": -0.8101806,
+                "z": -0.08825781,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.0
+              },
+              "magnitude": 0.99999994,
+              "sqrMagnitude": 0.9999999
+            },
+            "magnitude": 5.6467967,
+            "sqrMagnitude": 31.88631
+          },
+          "IsKinematic": false
+        },
+        "IsActive": true
+      },
+      "Item2": 0
+    },
+    {
+      "Item1": {
+        "Position": {
+          "x": -7.46260643,
+          "y": 0.826555252,
+          "z": -20.3038731,
+          "normalized": {
+            "x": -0.344730467,
+            "y": 0.0381822065,
+            "z": -0.9379248,
+            "normalized": {
+              "x": -0.3447305,
+              "y": 0.03818221,
+              "z": -0.937924862,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 0.99999994,
+            "sqrMagnitude": 0.9999999
+          },
+          "magnitude": 21.6476555,
+          "sqrMagnitude": 468.620941
         },
         "Rotation": {
           "x": 0.0,
@@ -123,9 +231,9 @@
           "sqrMagnitude": 0.0
         },
         "Scale": {
-          "x": 1.4,
-          "y": 1.4,
-          "z": 1.4,
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
           "normalized": {
             "x": 0.577350259,
             "y": 0.577350259,
@@ -133,10 +241,10 @@
             "magnitude": 1.0,
             "sqrMagnitude": 0.99999994
           },
-          "magnitude": 2.42487121,
-          "sqrMagnitude": 5.87999964
+          "magnitude": 1.73205078,
+          "sqrMagnitude": 3.0
         },
-        "PrefabName": "Stone",
+        "PrefabName": "Box",
         "RbData": {
           "LineVelocity": {
             "x": 0.0,
@@ -156,37 +264,388 @@
         },
         "IsActive": false
       },
+      "Item2": 0
+    },
+    {
+      "Item1": {
+        "Position": {
+          "x": 3.33881617,
+          "y": 2.59189129,
+          "z": -20.1179981,
+          "normalized": {
+            "x": 0.162415713,
+            "y": 0.12608178,
+            "z": -0.978634,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 20.5572243,
+          "sqrMagnitude": 422.599457
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "normalized": {
+            "x": 0.577350259,
+            "y": 0.577350259,
+            "z": 0.577350259,
+            "magnitude": 1.0,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 1.73205078,
+          "sqrMagnitude": 3.0
+        },
+        "PrefabName": "Box",
+        "RbData": {
+          "LineVelocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0.0
+          },
+          "AngularVelocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0.0
+          },
+          "IsKinematic": false
+        },
+        "IsActive": false
+      },
+      "Item2": 0
+    },
+    {
+      "Item1": {
+        "Position": {
+          "x": 13.0714025,
+          "y": 0.804151535,
+          "z": -20.1416588,
+          "normalized": {
+            "x": 0.5440779,
+            "y": 0.03347162,
+            "z": -0.8383668,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 24.0248756,
+          "sqrMagnitude": 577.194641
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "normalized": {
+            "x": 0.577350259,
+            "y": 0.577350259,
+            "z": 0.577350259,
+            "magnitude": 1.0,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 1.73205078,
+          "sqrMagnitude": 3.0
+        },
+        "PrefabName": "Barrel",
+        "RbData": {
+          "LineVelocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0.0
+          },
+          "AngularVelocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0.0
+          },
+          "IsKinematic": false
+        },
+        "IsActive": false
+      },
+      "Item2": 1
+    },
+    {
+      "Item1": {
+        "Position": {
+          "x": -8.024149,
+          "y": 1.91355133,
+          "z": -8.621377,
+          "normalized": {
+            "x": -0.67248,
+            "y": 0.160369039,
+            "z": -0.7225319,
+            "normalized": {
+              "x": -0.672480047,
+              "y": 0.160369053,
+              "z": -0.722532,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.00000012
+            },
+            "magnitude": 0.99999994,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 11.9321747,
+          "sqrMagnitude": 142.376785
+        },
+        "Rotation": {
+          "x": 330.451477,
+          "y": 337.930328,
+          "z": 326.9894,
+          "normalized": {
+            "x": 0.574965954,
+            "y": 0.5879787,
+            "z": 0.5689422,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 574.732239,
+          "sqrMagnitude": 330317.156
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "normalized": {
+            "x": 0.577350259,
+            "y": 0.577350259,
+            "z": 0.577350259,
+            "magnitude": 1.0,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 1.73205078,
+          "sqrMagnitude": 3.0
+        },
+        "PrefabName": "Barrel",
+        "RbData": {
+          "LineVelocity": {
+            "x": 0.0246893466,
+            "y": 0.928802,
+            "z": -12.66162,
+            "normalized": {
+              "x": 0.00194470678,
+              "y": 0.07315899,
+              "z": -0.9973184,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 12.6956654,
+            "sqrMagnitude": 161.1799
+          },
+          "AngularVelocity": {
+            "x": -10.070509,
+            "y": 3.456968,
+            "z": -0.8648034,
+            "normalized": {
+              "x": -0.9427197,
+              "y": 0.323613435,
+              "z": -0.08095591,
+              "magnitude": 1.0,
+              "sqrMagnitude": 0.99999994
+            },
+            "magnitude": 10.6824,
+            "sqrMagnitude": 114.113663
+          },
+          "IsKinematic": false
+        },
+        "IsActive": true
+      },
+      "Item2": 1
+    },
+    {
+      "Item1": {
+        "Position": {
+          "x": -3.62522125,
+          "y": 1.66747093,
+          "z": -20.0252342,
+          "normalized": {
+            "x": -0.17754218,
+            "y": 0.08166299,
+            "z": -0.9807191,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 20.41893,
+          "sqrMagnitude": 416.9327
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "normalized": {
+            "x": 0.577350259,
+            "y": 0.577350259,
+            "z": 0.577350259,
+            "magnitude": 1.0,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 1.73205078,
+          "sqrMagnitude": 3.0
+        },
+        "PrefabName": "Barrel",
+        "RbData": {
+          "LineVelocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0.0
+          },
+          "AngularVelocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0.0
+          },
+          "IsKinematic": false
+        },
+        "IsActive": false
+      },
+      "Item2": 1
+    },
+    {
+      "Item1": {
+        "Position": {
+          "x": -7.41896152,
+          "y": 0.6999998,
+          "z": -7.64520264,
+          "normalized": {
+            "x": -0.694910049,
+            "y": 0.06556671,
+            "z": -0.716101348,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 10.6761465,
+          "sqrMagnitude": 113.98011
+        },
+        "Rotation": {
+          "x": 71.30018,
+          "y": 234.2172,
+          "z": 191.163452,
+          "normalized": {
+            "x": 0.229541391,
+            "y": 0.7540309,
+            "z": 0.615425169,
+            "magnitude": 1.0,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 310.620148,
+          "sqrMagnitude": 96484.875
+        },
+        "Scale": {
+          "x": 1.4,
+          "y": 1.4,
+          "z": 1.4,
+          "normalized": {
+            "x": 0.577350259,
+            "y": 0.577350259,
+            "z": 0.577350259,
+            "magnitude": 1.0,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 2.42487121,
+          "sqrMagnitude": 5.87999964
+        },
+        "PrefabName": "Stone",
+        "RbData": {
+          "LineVelocity": {
+            "x": -0.5352561,
+            "y": 0.0,
+            "z": -12.1947355,
+            "normalized": {
+              "x": -0.04385017,
+              "y": 0.0,
+              "z": -0.9990381,
+              "magnitude": 1.0,
+              "sqrMagnitude": 0.99999994
+            },
+            "magnitude": 12.2064772,
+            "sqrMagnitude": 148.998077
+          },
+          "AngularVelocity": {
+            "x": -14.72674,
+            "y": 1.37408614,
+            "z": 0.646739841,
+            "normalized": {
+              "x": -0.994724751,
+              "y": 0.09281331,
+              "z": 0.0436843559,
+              "magnitude": 1.0,
+              "sqrMagnitude": 0.99999994
+            },
+            "magnitude": 14.8048391,
+            "sqrMagnitude": 219.183258
+          },
+          "IsKinematic": false
+        },
+        "IsActive": true
+      },
       "Item2": 2
     },
     {
       "Item1": {
         "Position": {
-          "x": 5.57085657,
+          "x": 5.50240231,
           "y": 0.6999998,
-          "z": 3.089304,
+          "z": -8.806012,
           "normalized": {
-            "x": 0.8692985,
-            "y": 0.109230742,
-            "z": 0.482067227,
-            "magnitude": 1.0,
-            "sqrMagnitude": 1.00000012
+            "x": 0.52870506,
+            "y": 0.06726034,
+            "z": -0.846136451,
+            "normalized": {
+              "x": 0.5287051,
+              "y": 0.06726035,
+              "z": -0.8461365,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 0.99999994,
+            "sqrMagnitude": 0.9999999
           },
-          "magnitude": 6.4084506,
-          "sqrMagnitude": 41.06824
+          "magnitude": 10.4073191,
+          "sqrMagnitude": 108.312279
         },
         "Rotation": {
-          "x": 286.7999,
-          "y": 0.0,
-          "z": 0.0,
+          "x": 52.0448952,
+          "y": 180.0,
+          "z": 180.0,
           "normalized": {
-            "x": 1.0,
-            "y": 0.0,
-            "z": 0.0,
+            "x": 0.200308025,
+            "y": 0.692775846,
+            "z": 0.692775846,
             "magnitude": 1.0,
             "sqrMagnitude": 1.0
           },
-          "magnitude": 286.7999,
-          "sqrMagnitude": 82254.18
+          "magnitude": 259.8243,
+          "sqrMagnitude": 67508.67
         },
         "Scale": {
           "x": 1.4,
@@ -207,7 +666,7 @@
           "LineVelocity": {
             "x": 0.0,
             "y": 0.0,
-            "z": -16.45886,
+            "z": -18.7518845,
             "normalized": {
               "x": 0.0,
               "y": 0.0,
@@ -215,11 +674,11 @@
               "magnitude": 1.0,
               "sqrMagnitude": 1.0
             },
-            "magnitude": 16.45886,
-            "sqrMagnitude": 270.894073
+            "magnitude": 18.7518845,
+            "sqrMagnitude": 351.633179
           },
           "AngularVelocity": {
-            "x": -16.08898,
+            "x": -26.7880478,
             "y": 0.0,
             "z": 0.0,
             "normalized": {
@@ -229,8 +688,8 @@
               "magnitude": 1.0,
               "sqrMagnitude": 1.0
             },
-            "magnitude": 16.08898,
-            "sqrMagnitude": 258.855255
+            "magnitude": 26.7880478,
+            "sqrMagnitude": 717.5995
           },
           "IsKinematic": false
         },
@@ -241,37 +700,37 @@
     {
       "Item1": {
         "Position": {
-          "x": 6.280479,
-          "y": 0.7162304,
-          "z": 12.2470322,
+          "x": 2.04737377,
+          "y": 0.6999998,
+          "z": -1.71050453,
           "normalized": {
-            "x": 0.455697149,
-            "y": 0.0519680381,
-            "z": 0.8886166,
+            "x": 0.7422912,
+            "y": 0.253790349,
+            "z": -0.620156646,
             "magnitude": 1.0,
-            "sqrMagnitude": 1.00000012
+            "sqrMagnitude": 1.0
           },
-          "magnitude": 13.7821331,
-          "sqrMagnitude": 189.9472
+          "magnitude": 2.75818133,
+          "sqrMagnitude": 7.607565
         },
         "Rotation": {
-          "x": 25.70884,
-          "y": 333.8542,
-          "z": 353.4465,
+          "x": 339.936737,
+          "y": 0.0,
+          "z": 0.0,
           "normalized": {
-            "x": 0.0528041422,
-            "y": 0.685712934,
-            "z": 0.7259542,
+            "x": 1.0,
+            "y": 0.0,
+            "z": 0.0,
             "magnitude": 1.0,
-            "sqrMagnitude": 0.99999994
+            "sqrMagnitude": 1.0
           },
-          "magnitude": 486.871643,
-          "sqrMagnitude": 237044.0
+          "magnitude": 339.936737,
+          "sqrMagnitude": 115556.984
         },
         "Scale": {
-          "x": 1.0,
-          "y": 1.0,
-          "z": 1.0,
+          "x": 1.4,
+          "y": 1.4,
+          "z": 1.4,
           "normalized": {
             "x": 0.577350259,
             "y": 0.577350259,
@@ -279,80 +738,146 @@
             "magnitude": 1.0,
             "sqrMagnitude": 0.99999994
           },
-          "magnitude": 1.73205078,
-          "sqrMagnitude": 3.0
+          "magnitude": 2.42487121,
+          "sqrMagnitude": 5.87999964
         },
-        "PrefabName": "Barrel",
+        "PrefabName": "Stone",
         "RbData": {
           "LineVelocity": {
-            "x": -0.717408,
-            "y": -0.402845472,
-            "z": -9.288187,
+            "x": 0.0,
+            "y": 0.0,
+            "z": -17.1430836,
             "normalized": {
-              "x": -0.07693749,
-              "y": -0.04320264,
-              "z": -0.996099532,
-              "normalized": {
-                "x": -0.07693748,
-                "y": -0.0432026349,
-                "z": -0.9960994,
-                "normalized": {
-                  "x": -0.07693749,
-                  "y": -0.04320264,
-                  "z": -0.9960995,
-                  "magnitude": 1.0,
-                  "sqrMagnitude": 1.0
-                },
-                "magnitude": 0.99999994,
-                "sqrMagnitude": 0.9999999
-              },
-              "magnitude": 1.00000012,
-              "sqrMagnitude": 1.00000012
+              "x": 0.0,
+              "y": 0.0,
+              "z": -1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
             },
-            "magnitude": 9.324557,
-            "sqrMagnitude": 86.94738
+            "magnitude": 17.1430836,
+            "sqrMagnitude": 293.8853
           },
           "AngularVelocity": {
-            "x": -0.2582274,
-            "y": -1.72741354,
-            "z": 0.9624634,
+            "x": -21.7131023,
+            "y": 0.0,
+            "z": 0.0,
             "normalized": {
-              "x": -0.129486918,
-              "y": -0.8662034,
-              "z": 0.482622743,
+              "x": -1.0,
+              "y": 0.0,
+              "z": 0.0,
               "magnitude": 1.0,
-              "sqrMagnitude": 0.99999994
+              "sqrMagnitude": 1.0
             },
-            "magnitude": 1.9942354,
-            "sqrMagnitude": 3.97697473
+            "magnitude": 21.7131023,
+            "sqrMagnitude": 471.4588
           },
           "IsKinematic": false
         },
         "IsActive": true
       },
-      "Item2": 1
+      "Item2": 2
+    },
+    {
+      "Item1": {
+        "Position": {
+          "x": 7.98615742,
+          "y": 0.6999998,
+          "z": 4.95785332,
+          "normalized": {
+            "x": 0.8472499,
+            "y": 0.07426285,
+            "z": 0.525977731,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 9.425976,
+          "sqrMagnitude": 88.84902
+        },
+        "Rotation": {
+          "x": 29.9560966,
+          "y": 0.0,
+          "z": 0.0,
+          "normalized": {
+            "x": 1.0,
+            "y": 0.0,
+            "z": 0.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 29.9560966,
+          "sqrMagnitude": 897.367737
+        },
+        "Scale": {
+          "x": 1.4,
+          "y": 1.4,
+          "z": 1.4,
+          "normalized": {
+            "x": 0.577350259,
+            "y": 0.577350259,
+            "z": 0.577350259,
+            "magnitude": 1.0,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 2.42487121,
+          "sqrMagnitude": 5.87999964
+        },
+        "PrefabName": "Stone",
+        "RbData": {
+          "LineVelocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -16.3470764,
+            "normalized": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": -1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 16.3470764,
+            "sqrMagnitude": 267.2269
+          },
+          "AngularVelocity": {
+            "x": -13.6544294,
+            "y": 0.0,
+            "z": 0.0,
+            "normalized": {
+              "x": -1.0,
+              "y": 0.0,
+              "z": 0.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 13.6544294,
+            "sqrMagnitude": 186.443436
+          },
+          "IsKinematic": false
+        },
+        "IsActive": true
+      },
+      "Item2": 2
     }
   ],
   "Hearts": [
     {
       "Item1": {
         "Position": {
-          "x": 6.643466,
+          "x": -2.97826862,
           "y": 0.0,
           "z": 15.0,
           "normalized": {
-            "x": 0.4049572,
+            "x": -0.194749579,
             "y": 0.0,
-            "z": 0.914335668,
+            "z": 0.980853,
             "magnitude": 1.0,
             "sqrMagnitude": 1.0
           },
-          "magnitude": 16.4053535,
-          "sqrMagnitude": 269.135651
+          "magnitude": 15.2928114,
+          "sqrMagnitude": 233.870087
         },
         "Rotation": {
           "x": 0.0,
-          "y": 139.959671,
+          "y": 55.7131424,
           "z": 0.0,
           "normalized": {
             "x": 0.0,
@@ -361,8 +886,8 @@
             "magnitude": 1.0,
             "sqrMagnitude": 1.0
           },
-          "magnitude": 139.959671,
-          "sqrMagnitude": 19588.709
+          "magnitude": 55.7131424,
+          "sqrMagnitude": 3103.95435
         },
         "Scale": {
           "x": 0.44315,

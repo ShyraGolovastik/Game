@@ -51,7 +51,7 @@ public class PlayerMover : Prefab
             _moveDirection.y -= Physics.gravity.magnitude * Time.deltaTime;
         }
 
-        if(Hp == 0)
+        if(Hp <= 0)
         {
             _rb.isKinematic = false;
             _rb.AddForce(Vector3.back * 40.0f, ForceMode.VelocityChange);
